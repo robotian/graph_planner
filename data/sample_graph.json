@@ -1,0 +1,14 @@
+{
+  "vertices": [
+    {"id": 0, "x": 0.0, "y": 0.0, "yaw": 0.0},
+    {"id": 1, "x": 2.5, "y": 0.0, "yaw": 0.785},
+    {"id": 2, "x": 2.5, "y": 2.5, "yaw": 1.5708},
+    {"id": 3, "x": 0.0, "y": 2.5, "yaw": 0.0}    
+  ],
+  "edges": [
+    {"source": 0, "target": 1, "weight": 2.55},
+    {"source": 1, "target": 2, "weight": 2.91},
+    {"source": 2, "target": 3, "weight": 5.38},
+    {"source": 3, "target": 0, "weight": 2.55}    
+  ]
+}

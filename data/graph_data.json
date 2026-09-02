@@ -1,0 +1,2290 @@
+{
+  "vertices": [
+    {
+      "id": 1,
+      "x": -10.446998985274309,
+      "y": 4.249757265270563,
+      "yaw": -3.1126201880066873,
+      "node_type": "Pickup",
+      "obj_id": 1
+    },
+    {
+      "id": 2,
+      "x": -11.318998985274309,
+      "y": 4.224757265270562,
+      "yaw": -3.1126201880066873,
+      "node_type": "Pickup",
+      "obj_id": 2
+    },
+    {
+      "id": 3,
+      "x": -12.191998985274308,
+      "y": 4.199757265270563,
+      "yaw": -3.1126201880066873,
+      "node_type": "Pickup",
+      "obj_id": 3
+    },
+    {
+      "id": 4,
+      "x": -9.64733472329313,
+      "y": 4.272931995260257,
+      "yaw": -3.1126201880066873,
+      "node_type": "Entering",
+      "obj_id": null
+    },
+    {
+      "id": 5,
+      "x": -12.89170521450784,
+      "y": 4.17947937652958,
+      "yaw": -3.1126201880066873,
+      "node_type": "Exiting",
+      "obj_id": null
+    },
+    {
+      "id": 6,
+      "x": -11.98400101472569,
+      "y": 5.296242734729438,
+      "yaw": 0.028972465583105844,
+      "node_type": "Pickup",
+      "obj_id": 3
+    },
+    {
+      "id": 7,
+      "x": -11.11100101472569,
+      "y": 5.321242734729437,
+      "yaw": 0.028972465583105844,
+      "node_type": "Pickup",
+      "obj_id": 2
+    },
+    {
+      "id": 8,
+      "x": -10.239001014725691,
+      "y": 5.3462427347294375,
+      "yaw": 0.028972465583105844,
+      "node_type": "Pickup",
+      "obj_id": 1
+    },
+    {
+      "id": 9,
+      "x": -12.78366527670687,
+      "y": 5.273068004739743,
+      "yaw": 0.028972465583105844,
+      "node_type": "Entering",
+      "obj_id": null
+    },
+    {
+      "id": 10,
+      "x": -9.539294785492158,
+      "y": 5.366520623470421,
+      "yaw": 0.028972465583105844,
+      "node_type": "Exiting",
+      "obj_id": null
+    },
+    {
+      "id": 11,
+      "x": -10.446409355782611,
+      "y": 5.967834837772395,
+      "yaw": -3.1316442768534256,
+      "node_type": "Pickup",
+      "obj_id": 4
+    },
+    {
+      "id": 12,
+      "x": -12.190409355782611,
+      "y": 5.950834837772395,
+      "yaw": -3.1316442768534256,
+      "node_type": "Pickup",
+      "obj_id": 5
+    },
+    {
+      "id": 13,
+      "x": -9.646448943535985,
+      "y": 5.975793407883095,
+      "yaw": -3.1316442768534256,
+      "node_type": "Entering",
+      "obj_id": null
+    },
+    {
+      "id": 14,
+      "x": -12.89037471649841,
+      "y": 5.943871088925533,
+      "yaw": -3.1316442768534256,
+      "node_type": "Exiting",
+      "obj_id": null
+    },
+    {
+      "id": 15,
+      "x": -11.96159064421739,
+      "y": 7.043165162227605,
+      "yaw": 0.009948376736367504,
+      "node_type": "Pickup",
+      "obj_id": 5
+    },
+    {
+      "id": 16,
+      "x": -10.21759064421739,
+      "y": 7.060165162227605,
+      "yaw": 0.009948376736367504,
+      "node_type": "Pickup",
+      "obj_id": 4
+    },
+    {
+      "id": 17,
+      "x": -12.761551056464016,
+      "y": 7.035206592116905,
+      "yaw": 0.009948376736367504,
+      "node_type": "Entering",
+      "obj_id": null
+    },
+    {
+      "id": 18,
+      "x": -9.51762528350159,
+      "y": 7.067128911074467,
+      "yaw": 0.009948376736367504,
+      "node_type": "Exiting",
+      "obj_id": null
+    },
+    {
+      "id": 19,
+      "x": -14.39170521450784,
+      "y": 2.6794793765295797,
+      "yaw": 0.0,
+      "node_type": "Via_CCW",
+      "obj_id": null
+    },
+    {
+      "id": 20,
+      "x": -14.39170521450784,
+      "y": 2.6794793765295797,
+      "yaw": -3.141592653589793,
+      "node_type": "Via_CW",
+      "obj_id": null
+    },
+    {
+      "id": 21,
+      "x": -13.329358559340132,
+      "y": 2.6794793765295797,
+      "yaw": 0.0,
+      "node_type": "Via_CCW",
+      "obj_id": null
+    },
+    {
+      "id": 22,
+      "x": -13.329358559340132,
+      "y": 2.6794793765295797,
+      "yaw": -3.141592653589793,
+      "node_type": "Via_CW",
+      "obj_id": null
+    },
+    {
+      "id": 23,
+      "x": -12.267011904172424,
+      "y": 2.6794793765295797,
+      "yaw": 0.0,
+      "node_type": "Via_CCW",
+      "obj_id": null
+    },
+    {
+      "id": 24,
+      "x": -12.267011904172424,
+      "y": 2.6794793765295797,
+      "yaw": -3.141592653589793,
+      "node_type": "Via_CW",
+      "obj_id": null
+    },
+    {
+      "id": 25,
+      "x": -11.204665249004716,
+      "y": 2.6794793765295797,
+      "yaw": 0.0,
+      "node_type": "Via_CCW",
+      "obj_id": null
+    },
+    {
+      "id": 26,
+      "x": -11.204665249004716,
+      "y": 2.6794793765295797,
+      "yaw": -3.141592653589793,
+      "node_type": "Via_CW",
+      "obj_id": null
+    },
+    {
+      "id": 27,
+      "x": -10.142318593837008,
+      "y": 2.6794793765295797,
+      "yaw": 0.0,
+      "node_type": "Via_CCW",
+      "obj_id": null
+    },
+    {
+      "id": 28,
+      "x": -10.142318593837008,
+      "y": 2.6794793765295797,
+      "yaw": -3.141592653589793,
+      "node_type": "Via_CW",
+      "obj_id": null
+    },
+    {
+      "id": 29,
+      "x": -9.0799719386693,
+      "y": 2.6794793765295797,
+      "yaw": 0.0,
+      "node_type": "Via_CCW",
+      "obj_id": null
+    },
+    {
+      "id": 30,
+      "x": -9.0799719386693,
+      "y": 2.6794793765295797,
+      "yaw": -3.141592653589793,
+      "node_type": "Via_CW",
+      "obj_id": null
+    },
+    {
+      "id": 31,
+      "x": -8.01762528350159,
+      "y": 2.6794793765295797,
+      "yaw": 1.5707963267948966,
+      "node_type": "Via_CCW",
+      "obj_id": null
+    },
+    {
+      "id": 32,
+      "x": -8.01762528350159,
+      "y": 2.6794793765295797,
+      "yaw": -1.5707963267948966,
+      "node_type": "Via_CW",
+      "obj_id": null
+    },
+    {
+      "id": 33,
+      "x": -8.01762528350159,
+      "y": 3.6607542989537274,
+      "yaw": 1.5707963267948966,
+      "node_type": "Via_CCW",
+      "obj_id": null
+    },
+    {
+      "id": 34,
+      "x": -8.01762528350159,
+      "y": 3.6607542989537274,
+      "yaw": -1.5707963267948966,
+      "node_type": "Via_CW",
+      "obj_id": null
+    },
+    {
+      "id": 35,
+      "x": -8.01762528350159,
+      "y": 4.642029221377875,
+      "yaw": 1.5707963267948966,
+      "node_type": "Via_CCW",
+      "obj_id": null
+    },
+    {
+      "id": 36,
+      "x": -8.01762528350159,
+      "y": 4.642029221377875,
+      "yaw": -1.5707963267948966,
+      "node_type": "Via_CW",
+      "obj_id": null
+    },
+    {
+      "id": 37,
+      "x": -8.01762528350159,
+      "y": 5.623304143802023,
+      "yaw": 1.5707963267948966,
+      "node_type": "Via_CCW",
+      "obj_id": null
+    },
+    {
+      "id": 38,
+      "x": -8.01762528350159,
+      "y": 5.623304143802023,
+      "yaw": -1.5707963267948966,
+      "node_type": "Via_CW",
+      "obj_id": null
+    },
+    {
+      "id": 39,
+      "x": -8.01762528350159,
+      "y": 6.6045790662261705,
+      "yaw": 1.5707963267948966,
+      "node_type": "Via_CCW",
+      "obj_id": null
+    },
+    {
+      "id": 40,
+      "x": -8.01762528350159,
+      "y": 6.6045790662261705,
+      "yaw": -1.5707963267948966,
+      "node_type": "Via_CW",
+      "obj_id": null
+    },
+    {
+      "id": 41,
+      "x": -8.01762528350159,
+      "y": 7.585853988650318,
+      "yaw": 1.5707963267948966,
+      "node_type": "Via_CCW",
+      "obj_id": null
+    },
+    {
+      "id": 42,
+      "x": -8.01762528350159,
+      "y": 7.585853988650318,
+      "yaw": -1.5707963267948966,
+      "node_type": "Via_CW",
+      "obj_id": null
+    },
+    {
+      "id": 43,
+      "x": -8.01762528350159,
+      "y": 8.567128911074466,
+      "yaw": 3.141592653589793,
+      "node_type": "Via_CCW",
+      "obj_id": null
+    },
+    {
+      "id": 44,
+      "x": -8.01762528350159,
+      "y": 8.567128911074466,
+      "yaw": 0.0,
+      "node_type": "Via_CW",
+      "obj_id": null
+    },
+    {
+      "id": 45,
+      "x": -9.0799719386693,
+      "y": 8.567128911074466,
+      "yaw": 3.141592653589793,
+      "node_type": "Via_CCW",
+      "obj_id": null
+    },
+    {
+      "id": 46,
+      "x": -9.0799719386693,
+      "y": 8.567128911074466,
+      "yaw": 0.0,
+      "node_type": "Via_CW",
+      "obj_id": null
+    },
+    {
+      "id": 47,
+      "x": -10.142318593837008,
+      "y": 8.567128911074466,
+      "yaw": 3.141592653589793,
+      "node_type": "Via_CCW",
+      "obj_id": null
+    },
+    {
+      "id": 48,
+      "x": -10.142318593837008,
+      "y": 8.567128911074466,
+      "yaw": 0.0,
+      "node_type": "Via_CW",
+      "obj_id": null
+    },
+    {
+      "id": 49,
+      "x": -11.204665249004716,
+      "y": 8.567128911074466,
+      "yaw": 3.141592653589793,
+      "node_type": "Via_CCW",
+      "obj_id": null
+    },
+    {
+      "id": 50,
+      "x": -11.204665249004716,
+      "y": 8.567128911074466,
+      "yaw": 0.0,
+      "node_type": "Via_CW",
+      "obj_id": null
+    },
+    {
+      "id": 51,
+      "x": -12.267011904172424,
+      "y": 8.567128911074466,
+      "yaw": 3.141592653589793,
+      "node_type": "Via_CCW",
+      "obj_id": null
+    },
+    {
+      "id": 52,
+      "x": -12.267011904172424,
+      "y": 8.567128911074466,
+      "yaw": 0.0,
+      "node_type": "Via_CW",
+      "obj_id": null
+    },
+    {
+      "id": 53,
+      "x": -13.329358559340132,
+      "y": 8.567128911074466,
+      "yaw": 3.141592653589793,
+      "node_type": "Via_CCW",
+      "obj_id": null
+    },
+    {
+      "id": 54,
+      "x": -13.329358559340132,
+      "y": 8.567128911074466,
+      "yaw": 0.0,
+      "node_type": "Via_CW",
+      "obj_id": null
+    },
+    {
+      "id": 55,
+      "x": -14.39170521450784,
+      "y": 8.567128911074466,
+      "yaw": -1.5707963267948966,
+      "node_type": "Via_CCW",
+      "obj_id": null
+    },
+    {
+      "id": 56,
+      "x": -14.39170521450784,
+      "y": 8.567128911074466,
+      "yaw": 1.5707963267948966,
+      "node_type": "Via_CW",
+      "obj_id": null
+    },
+    {
+      "id": 57,
+      "x": -14.39170521450784,
+      "y": 7.585853988650318,
+      "yaw": -1.5707963267948966,
+      "node_type": "Via_CCW",
+      "obj_id": null
+    },
+    {
+      "id": 58,
+      "x": -14.39170521450784,
+      "y": 7.585853988650318,
+      "yaw": 1.5707963267948966,
+      "node_type": "Via_CW",
+      "obj_id": null
+    },
+    {
+      "id": 59,
+      "x": -14.39170521450784,
+      "y": 6.6045790662261705,
+      "yaw": -1.5707963267948966,
+      "node_type": "Via_CCW",
+      "obj_id": null
+    },
+    {
+      "id": 60,
+      "x": -14.39170521450784,
+      "y": 6.6045790662261705,
+      "yaw": 1.5707963267948966,
+      "node_type": "Via_CW",
+      "obj_id": null
+    },
+    {
+      "id": 61,
+      "x": -14.39170521450784,
+      "y": 5.623304143802023,
+      "yaw": -1.5707963267948966,
+      "node_type": "Via_CCW",
+      "obj_id": null
+    },
+    {
+      "id": 62,
+      "x": -14.39170521450784,
+      "y": 5.623304143802023,
+      "yaw": 1.5707963267948966,
+      "node_type": "Via_CW",
+      "obj_id": null
+    },
+    {
+      "id": 63,
+      "x": -14.39170521450784,
+      "y": 4.642029221377875,
+      "yaw": -1.5707963267948966,
+      "node_type": "Via_CCW",
+      "obj_id": null
+    },
+    {
+      "id": 64,
+      "x": -14.39170521450784,
+      "y": 4.642029221377875,
+      "yaw": 1.5707963267948966,
+      "node_type": "Via_CW",
+      "obj_id": null
+    },
+    {
+      "id": 65,
+      "x": -14.39170521450784,
+      "y": 3.6607542989537274,
+      "yaw": -1.5707963267948966,
+      "node_type": "Via_CCW",
+      "obj_id": null
+    },
+    {
+      "id": 66,
+      "x": -14.39170521450784,
+      "y": 3.6607542989537274,
+      "yaw": 1.5707963267948966,
+      "node_type": "Via_CW",
+      "obj_id": null
+    },
+    {
+      "id": 67,
+      "x": -14.433712365110758,
+      "y": 1.9455032228541378,
+      "yaw": -1.8763889803846903,
+      "node_type": "Staging",
+      "obj_id": null
+    },
+    {
+      "id": 68,
+      "x": -6.599038105676658,
+      "y": 9.75,
+      "yaw": -0.5235987755982988,
+      "node_type": "Staging",
+      "obj_id": null
+    }
+  ],
+  "edges": [
+    {
+      "source": 1,
+      "target": 2,
+      "weight": 2.6170748938461807,
+      "edge_type": "Pickup Edge"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "weight": 2.6200736630865915,
+      "edge_type": "Pickup Edge"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "weight": 2.800000000000001,
+      "edge_type": "Exiting Edge"
+    },
+    {
+      "source": 4,
+      "target": 1,
+      "weight": 3.2000000000000006,
+      "edge_type": "Entering Edge"
+    },
+    {
+      "source": 5,
+      "target": 21,
+      "weight": 6.2501717739504,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 5,
+      "target": 63,
+      "weight": 6.278792697924253,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 5,
+      "target": 22,
+      "weight": 6.2501717739504,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 5,
+      "target": 64,
+      "weight": 6.278792697924253,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 5,
+      "target": 66,
+      "weight": 6.348638538907156,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 5,
+      "target": 24,
+      "weight": 6.4995282683934175,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "weight": 2.6200736630865915,
+      "edge_type": "Pickup Edge"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "weight": 2.6170748938461807,
+      "edge_type": "Pickup Edge"
+    },
+    {
+      "source": 8,
+      "target": 10,
+      "weight": 2.800000000000001,
+      "edge_type": "Exiting Edge"
+    },
+    {
+      "source": 9,
+      "target": 6,
+      "weight": 3.2000000000000006,
+      "edge_type": "Entering Edge"
+    },
+    {
+      "source": 10,
+      "target": 37,
+      "weight": 6.172734693280912,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 10,
+      "target": 35,
+      "weight": 6.7413540064224415,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 10,
+      "target": 38,
+      "weight": 6.172734693280912,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 10,
+      "target": 36,
+      "weight": 6.7413540064224415,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 10,
+      "target": 40,
+      "weight": 7.846799888838266,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 10,
+      "target": 34,
+      "weight": 9.143405778718046,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "weight": 5.232248560609482,
+      "edge_type": "Pickup Edge"
+    },
+    {
+      "source": 12,
+      "target": 14,
+      "weight": 2.800000000000003,
+      "edge_type": "Exiting Edge"
+    },
+    {
+      "source": 13,
+      "target": 11,
+      "weight": 3.1999999999999993,
+      "edge_type": "Entering Edge"
+    },
+    {
+      "source": 14,
+      "target": 61,
+      "weight": 6.140692378628409,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 14,
+      "target": 59,
+      "weight": 6.561131970045344,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 14,
+      "target": 62,
+      "weight": 6.140692378628409,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 14,
+      "target": 60,
+      "weight": 6.561131970045344,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 14,
+      "target": 64,
+      "weight": 7.948620521678683,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 14,
+      "target": 58,
+      "weight": 8.899529072702089,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "weight": 5.232248560609482,
+      "edge_type": "Pickup Edge"
+    },
+    {
+      "source": 16,
+      "target": 18,
+      "weight": 2.800000000000003,
+      "edge_type": "Exiting Edge"
+    },
+    {
+      "source": 17,
+      "target": 15,
+      "weight": 3.1999999999999993,
+      "edge_type": "Entering Edge"
+    },
+    {
+      "source": 18,
+      "target": 45,
+      "weight": 6.250171773950396,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 18,
+      "target": 39,
+      "weight": 6.278792697924254,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 18,
+      "target": 46,
+      "weight": 6.250171773950396,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 18,
+      "target": 40,
+      "weight": 6.278792697924254,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 18,
+      "target": 42,
+      "weight": 6.348638538907155,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 18,
+      "target": 48,
+      "weight": 6.499528268393415,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 19,
+      "target": 20,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 19,
+      "target": 21,
+      "weight": 1.0623466551677083,
+      "edge_type": "Via Edge CCW"
+    },
+    {
+      "source": 19,
+      "target": 67,
+      "weight": 1.470354508091123,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 20,
+      "target": 19,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 20,
+      "target": 66,
+      "weight": 0.9812749224241477,
+      "edge_type": "Via Edge CW"
+    },
+    {
+      "source": 20,
+      "target": 67,
+      "weight": 1.470354508091123,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 21,
+      "target": 22,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 21,
+      "target": 23,
+      "weight": 1.0623466551677083,
+      "edge_type": "Via Edge CCW"
+    },
+    {
+      "source": 21,
+      "target": 67,
+      "weight": 2.6520319172168794,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 22,
+      "target": 21,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 22,
+      "target": 20,
+      "weight": 1.0623466551677083,
+      "edge_type": "Via Edge CW"
+    },
+    {
+      "source": 22,
+      "target": 67,
+      "weight": 2.6520319172168794,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 23,
+      "target": 24,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 23,
+      "target": 25,
+      "weight": 1.0623466551677083,
+      "edge_type": "Via Edge CCW"
+    },
+    {
+      "source": 23,
+      "target": 67,
+      "weight": 4.575286605927363,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 24,
+      "target": 23,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 24,
+      "target": 22,
+      "weight": 1.0623466551677083,
+      "edge_type": "Via Edge CW"
+    },
+    {
+      "source": 24,
+      "target": 67,
+      "weight": 4.575286605927363,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 25,
+      "target": 26,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 25,
+      "target": 27,
+      "weight": 1.0623466551677083,
+      "edge_type": "Via Edge CCW"
+    },
+    {
+      "source": 25,
+      "target": 67,
+      "weight": 6.622829084974771,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 26,
+      "target": 25,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 26,
+      "target": 24,
+      "weight": 1.0623466551677083,
+      "edge_type": "Via Edge CW"
+    },
+    {
+      "source": 26,
+      "target": 67,
+      "weight": 6.622829084974771,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 27,
+      "target": 28,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 27,
+      "target": 29,
+      "weight": 1.0623466551677083,
+      "edge_type": "Via Edge CCW"
+    },
+    {
+      "source": 27,
+      "target": 67,
+      "weight": 8.707417870825159,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 27,
+      "target": 68,
+      "weight": 15.81734472086872,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 27,
+      "target": 4,
+      "weight": 6.67424935732941,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 28,
+      "target": 27,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 28,
+      "target": 26,
+      "weight": 1.0623466551677083,
+      "edge_type": "Via Edge CW"
+    },
+    {
+      "source": 28,
+      "target": 67,
+      "weight": 8.707417870825159,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 28,
+      "target": 68,
+      "weight": 15.81734472086872,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 28,
+      "target": 4,
+      "weight": 6.67424935732941,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 29,
+      "target": 30,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 29,
+      "target": 31,
+      "weight": 1.0623466551677083,
+      "edge_type": "Via Edge CCW"
+    },
+    {
+      "source": 29,
+      "target": 67,
+      "weight": 10.807637586055106,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 29,
+      "target": 68,
+      "weight": 14.98629968612774,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 30,
+      "target": 29,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 30,
+      "target": 28,
+      "weight": 1.0623466551677083,
+      "edge_type": "Via Edge CW"
+    },
+    {
+      "source": 30,
+      "target": 67,
+      "weight": 10.807637586055106,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 30,
+      "target": 68,
+      "weight": 14.98629968612774,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 30,
+      "target": 4,
+      "weight": 6.765786609127734,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 31,
+      "target": 32,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 31,
+      "target": 33,
+      "weight": 0.9812749224241477,
+      "edge_type": "Via Edge CCW"
+    },
+    {
+      "source": 31,
+      "target": 67,
+      "weight": 12.915865349709438,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 31,
+      "target": 68,
+      "weight": 14.422850129986077,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 32,
+      "target": 31,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 32,
+      "target": 30,
+      "weight": 1.0623466551677083,
+      "edge_type": "Via Edge CW"
+    },
+    {
+      "source": 32,
+      "target": 67,
+      "weight": 12.915865349709438,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 32,
+      "target": 68,
+      "weight": 14.422850129986077,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 33,
+      "target": 34,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 33,
+      "target": 35,
+      "weight": 0.9812749224241477,
+      "edge_type": "Via Edge CCW"
+    },
+    {
+      "source": 33,
+      "target": 67,
+      "weight": 13.282809897435532,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 33,
+      "target": 68,
+      "weight": 12.504607597009963,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 34,
+      "target": 33,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 34,
+      "target": 32,
+      "weight": 0.9812749224241477,
+      "edge_type": "Via Edge CW"
+    },
+    {
+      "source": 34,
+      "target": 67,
+      "weight": 13.282809897435532,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 34,
+      "target": 68,
+      "weight": 12.504607597009963,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 34,
+      "target": 4,
+      "weight": 6.963578838500582,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 35,
+      "target": 36,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 35,
+      "target": 37,
+      "weight": 0.9812749224241477,
+      "edge_type": "Via Edge CCW"
+    },
+    {
+      "source": 35,
+      "target": 67,
+      "weight": 13.919400259997767,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 35,
+      "target": 68,
+      "weight": 10.602594976013528,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 35,
+      "target": 4,
+      "weight": 6.683933716575436,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 36,
+      "target": 35,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 36,
+      "target": 34,
+      "weight": 0.9812749224241477,
+      "edge_type": "Via Edge CW"
+    },
+    {
+      "source": 36,
+      "target": 67,
+      "weight": 13.919400259997767,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 36,
+      "target": 68,
+      "weight": 10.602594976013528,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 36,
+      "target": 4,
+      "weight": 6.683933716575436,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 36,
+      "target": 13,
+      "weight": 8.420920064403195,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 37,
+      "target": 38,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 37,
+      "target": 39,
+      "weight": 0.9812749224241477,
+      "edge_type": "Via Edge CCW"
+    },
+    {
+      "source": 37,
+      "target": 68,
+      "weight": 8.727429924244792,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 37,
+      "target": 13,
+      "weight": 6.666111546357747,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 38,
+      "target": 37,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 38,
+      "target": 36,
+      "weight": 0.9812749224241477,
+      "edge_type": "Via Edge CW"
+    },
+    {
+      "source": 38,
+      "target": 68,
+      "weight": 8.727429924244792,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 38,
+      "target": 13,
+      "weight": 6.666111546357747,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 39,
+      "target": 40,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 39,
+      "target": 41,
+      "weight": 0.9812749224241477,
+      "edge_type": "Via Edge CCW"
+    },
+    {
+      "source": 39,
+      "target": 68,
+      "weight": 6.901032511649815,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 39,
+      "target": 13,
+      "weight": 6.983910560281567,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 40,
+      "target": 39,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 40,
+      "target": 38,
+      "weight": 0.9812749224241477,
+      "edge_type": "Via Edge CW"
+    },
+    {
+      "source": 40,
+      "target": 68,
+      "weight": 6.901032511649815,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 40,
+      "target": 13,
+      "weight": 6.983910560281567,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 41,
+      "target": 42,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 41,
+      "target": 43,
+      "weight": 0.9812749224241477,
+      "edge_type": "Via Edge CCW"
+    },
+    {
+      "source": 41,
+      "target": 68,
+      "weight": 5.175294209812635,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 42,
+      "target": 41,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 42,
+      "target": 40,
+      "weight": 0.9812749224241477,
+      "edge_type": "Via Edge CW"
+    },
+    {
+      "source": 42,
+      "target": 68,
+      "weight": 5.175294209812635,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 42,
+      "target": 13,
+      "weight": 9.161101758394198,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 43,
+      "target": 44,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 43,
+      "target": 45,
+      "weight": 1.0623466551677083,
+      "edge_type": "Via Edge CCW"
+    },
+    {
+      "source": 43,
+      "target": 68,
+      "weight": 3.6940891132213833,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 44,
+      "target": 43,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 44,
+      "target": 42,
+      "weight": 0.9812749224241477,
+      "edge_type": "Via Edge CW"
+    },
+    {
+      "source": 44,
+      "target": 68,
+      "weight": 3.6940891132213833,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 45,
+      "target": 46,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 45,
+      "target": 47,
+      "weight": 1.0623466551677083,
+      "edge_type": "Via Edge CCW"
+    },
+    {
+      "source": 45,
+      "target": 68,
+      "weight": 5.496987064457561,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 46,
+      "target": 45,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 46,
+      "target": 44,
+      "weight": 1.0623466551677083,
+      "edge_type": "Via Edge CW"
+    },
+    {
+      "source": 46,
+      "target": 68,
+      "weight": 5.496987064457561,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 47,
+      "target": 48,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 47,
+      "target": 49,
+      "weight": 1.0623466551677083,
+      "edge_type": "Via Edge CCW"
+    },
+    {
+      "source": 47,
+      "target": 68,
+      "weight": 7.471016164028485,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 48,
+      "target": 47,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 48,
+      "target": 46,
+      "weight": 1.0623466551677083,
+      "edge_type": "Via Edge CW"
+    },
+    {
+      "source": 48,
+      "target": 68,
+      "weight": 7.471016164028485,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 49,
+      "target": 50,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 49,
+      "target": 51,
+      "weight": 1.0623466551677083,
+      "edge_type": "Via Edge CCW"
+    },
+    {
+      "source": 49,
+      "target": 68,
+      "weight": 9.510201973959553,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 50,
+      "target": 49,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 50,
+      "target": 48,
+      "weight": 1.0623466551677083,
+      "edge_type": "Via Edge CW"
+    },
+    {
+      "source": 50,
+      "target": 68,
+      "weight": 9.510201973959553,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 51,
+      "target": 52,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 51,
+      "target": 53,
+      "weight": 1.0623466551677083,
+      "edge_type": "Via Edge CCW"
+    },
+    {
+      "source": 51,
+      "target": 68,
+      "weight": 11.580174608951353,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 51,
+      "target": 17,
+      "weight": 6.439074423511002,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 52,
+      "target": 51,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 52,
+      "target": 50,
+      "weight": 1.0623466551677083,
+      "edge_type": "Via Edge CW"
+    },
+    {
+      "source": 52,
+      "target": 68,
+      "weight": 11.580174608951353,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 52,
+      "target": 17,
+      "weight": 6.439074423511002,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 53,
+      "target": 54,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 53,
+      "target": 55,
+      "weight": 1.0623466551677083,
+      "edge_type": "Via Edge CCW"
+    },
+    {
+      "source": 53,
+      "target": 67,
+      "weight": 13.42617206551732,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 53,
+      "target": 68,
+      "weight": 13.666952465274298,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 53,
+      "target": 17,
+      "weight": 6.535064010878817,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 54,
+      "target": 53,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 54,
+      "target": 52,
+      "weight": 1.0623466551677083,
+      "edge_type": "Via Edge CW"
+    },
+    {
+      "source": 54,
+      "target": 67,
+      "weight": 13.42617206551732,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 54,
+      "target": 68,
+      "weight": 13.666952465274298,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 54,
+      "target": 17,
+      "weight": 6.535064010878817,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 55,
+      "target": 56,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 55,
+      "target": 57,
+      "weight": 0.9812749224241477,
+      "edge_type": "Via Edge CCW"
+    },
+    {
+      "source": 55,
+      "target": 67,
+      "weight": 13.243517864314015,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 55,
+      "target": 68,
+      "weight": 15.763863064880413,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 56,
+      "target": 55,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 56,
+      "target": 54,
+      "weight": 1.0623466551677083,
+      "edge_type": "Via Edge CW"
+    },
+    {
+      "source": 56,
+      "target": 67,
+      "weight": 13.243517864314015,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 56,
+      "target": 68,
+      "weight": 15.763863064880413,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 57,
+      "target": 58,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 57,
+      "target": 59,
+      "weight": 0.9812749224241477,
+      "edge_type": "Via Edge CCW"
+    },
+    {
+      "source": 57,
+      "target": 67,
+      "weight": 11.281014380261968,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 57,
+      "target": 68,
+      "weight": 16.175189473697063,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 58,
+      "target": 57,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 58,
+      "target": 56,
+      "weight": 0.9812749224241477,
+      "edge_type": "Via Edge CW"
+    },
+    {
+      "source": 58,
+      "target": 67,
+      "weight": 11.281014380261968,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 58,
+      "target": 68,
+      "weight": 16.175189473697063,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 58,
+      "target": 17,
+      "weight": 6.882575255581702,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 59,
+      "target": 60,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 59,
+      "target": 61,
+      "weight": 0.9812749224241477,
+      "edge_type": "Via Edge CCW"
+    },
+    {
+      "source": 59,
+      "target": 67,
+      "weight": 9.31853042383714,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 59,
+      "target": 68,
+      "weight": 16.807062029954192,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 60,
+      "target": 59,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 60,
+      "target": 58,
+      "weight": 0.9812749224241477,
+      "edge_type": "Via Edge CW"
+    },
+    {
+      "source": 60,
+      "target": 67,
+      "weight": 9.31853042383714,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 60,
+      "target": 68,
+      "weight": 16.807062029954192,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 60,
+      "target": 9,
+      "weight": 8.35101349386879,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 60,
+      "target": 17,
+      "weight": 6.744292573775067,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 61,
+      "target": 62,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 61,
+      "target": 63,
+      "weight": 0.9812749224241477,
+      "edge_type": "Via Edge CCW"
+    },
+    {
+      "source": 61,
+      "target": 67,
+      "weight": 7.35608162402427,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 61,
+      "target": 9,
+      "weight": 6.582957140578332,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 62,
+      "target": 61,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 62,
+      "target": 60,
+      "weight": 0.9812749224241477,
+      "edge_type": "Via Edge CW"
+    },
+    {
+      "source": 62,
+      "target": 67,
+      "weight": 7.35608162402427,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 62,
+      "target": 9,
+      "weight": 6.582957140578332,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 63,
+      "target": 64,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 63,
+      "target": 65,
+      "weight": 0.9812749224241477,
+      "edge_type": "Via Edge CCW"
+    },
+    {
+      "source": 63,
+      "target": 67,
+      "weight": 5.393706355157357,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 63,
+      "target": 9,
+      "weight": 6.909706086565219,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 64,
+      "target": 63,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 64,
+      "target": 62,
+      "weight": 0.9812749224241477,
+      "edge_type": "Via Edge CW"
+    },
+    {
+      "source": 64,
+      "target": 67,
+      "weight": 5.393706355157357,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 64,
+      "target": 9,
+      "weight": 6.909706086565219,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 65,
+      "target": 66,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 65,
+      "target": 19,
+      "weight": 0.9812749224241477,
+      "edge_type": "Via Edge CCW"
+    },
+    {
+      "source": 65,
+      "target": 67,
+      "weight": 3.4315307690665264,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 66,
+      "target": 65,
+      "weight": 0.0,
+      "edge_type": "Via Swap"
+    },
+    {
+      "source": 66,
+      "target": 64,
+      "weight": 0.9812749224241477,
+      "edge_type": "Via Edge CW"
+    },
+    {
+      "source": 66,
+      "target": 67,
+      "weight": 3.4315307690665264,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 66,
+      "target": 9,
+      "weight": 9.10854361788174,
+      "edge_type": "Transit Edge"
+    },
+    {
+      "source": 67,
+      "target": 19,
+      "weight": 1.470354508091123,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 67,
+      "target": 21,
+      "weight": 2.6520319172168794,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 67,
+      "target": 23,
+      "weight": 4.575286605927363,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 67,
+      "target": 25,
+      "weight": 6.622829084974771,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 67,
+      "target": 27,
+      "weight": 8.707417870825159,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 67,
+      "target": 29,
+      "weight": 10.807637586055106,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 67,
+      "target": 31,
+      "weight": 12.915865349709438,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 67,
+      "target": 33,
+      "weight": 13.282809897435532,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 67,
+      "target": 35,
+      "weight": 13.919400259997767,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 67,
+      "target": 53,
+      "weight": 13.42617206551732,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 67,
+      "target": 55,
+      "weight": 13.243517864314015,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 67,
+      "target": 57,
+      "weight": 11.281014380261968,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 67,
+      "target": 59,
+      "weight": 9.31853042383714,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 67,
+      "target": 61,
+      "weight": 7.35608162402427,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 67,
+      "target": 63,
+      "weight": 5.393706355157357,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 67,
+      "target": 65,
+      "weight": 3.4315307690665264,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 67,
+      "target": 20,
+      "weight": 1.470354508091123,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 67,
+      "target": 22,
+      "weight": 2.6520319172168794,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 67,
+      "target": 24,
+      "weight": 4.575286605927363,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 67,
+      "target": 26,
+      "weight": 6.622829084974771,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 67,
+      "target": 28,
+      "weight": 8.707417870825159,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 67,
+      "target": 30,
+      "weight": 10.807637586055106,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 67,
+      "target": 32,
+      "weight": 12.915865349709438,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 67,
+      "target": 34,
+      "weight": 13.282809897435532,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 67,
+      "target": 36,
+      "weight": 13.919400259997767,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 67,
+      "target": 54,
+      "weight": 13.42617206551732,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 67,
+      "target": 56,
+      "weight": 13.243517864314015,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 67,
+      "target": 58,
+      "weight": 11.281014380261968,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 67,
+      "target": 60,
+      "weight": 9.31853042383714,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 67,
+      "target": 62,
+      "weight": 7.35608162402427,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 67,
+      "target": 64,
+      "weight": 5.393706355157357,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 67,
+      "target": 66,
+      "weight": 3.4315307690665264,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 68,
+      "target": 27,
+      "weight": 15.81734472086872,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 68,
+      "target": 29,
+      "weight": 14.98629968612774,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 68,
+      "target": 31,
+      "weight": 14.422850129986077,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 68,
+      "target": 33,
+      "weight": 12.504607597009963,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 68,
+      "target": 35,
+      "weight": 10.602594976013528,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 68,
+      "target": 37,
+      "weight": 8.727429924244792,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 68,
+      "target": 39,
+      "weight": 6.901032511649815,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 68,
+      "target": 41,
+      "weight": 5.175294209812635,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 68,
+      "target": 43,
+      "weight": 3.6940891132213833,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 68,
+      "target": 45,
+      "weight": 5.496987064457561,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 68,
+      "target": 47,
+      "weight": 7.471016164028485,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 68,
+      "target": 49,
+      "weight": 9.510201973959553,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 68,
+      "target": 51,
+      "weight": 11.580174608951353,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 68,
+      "target": 53,
+      "weight": 13.666952465274298,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 68,
+      "target": 55,
+      "weight": 15.763863064880413,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 68,
+      "target": 57,
+      "weight": 16.175189473697063,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 68,
+      "target": 59,
+      "weight": 16.807062029954192,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 68,
+      "target": 28,
+      "weight": 15.81734472086872,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 68,
+      "target": 30,
+      "weight": 14.98629968612774,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 68,
+      "target": 32,
+      "weight": 14.422850129986077,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 68,
+      "target": 34,
+      "weight": 12.504607597009963,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 68,
+      "target": 36,
+      "weight": 10.602594976013528,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 68,
+      "target": 38,
+      "weight": 8.727429924244792,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 68,
+      "target": 40,
+      "weight": 6.901032511649815,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 68,
+      "target": 42,
+      "weight": 5.175294209812635,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 68,
+      "target": 44,
+      "weight": 3.6940891132213833,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 68,
+      "target": 46,
+      "weight": 5.496987064457561,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 68,
+      "target": 48,
+      "weight": 7.471016164028485,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 68,
+      "target": 50,
+      "weight": 9.510201973959553,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 68,
+      "target": 52,
+      "weight": 11.580174608951353,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 68,
+      "target": 54,
+      "weight": 13.666952465274298,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 68,
+      "target": 56,
+      "weight": 15.763863064880413,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 68,
+      "target": 58,
+      "weight": 16.175189473697063,
+      "edge_type": "Staging"
+    },
+    {
+      "source": 68,
+      "target": 60,
+      "weight": 16.807062029954192,
+      "edge_type": "Staging"
+    }
+  ]
+}
